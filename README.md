@@ -5,11 +5,13 @@ A machine learning ensemble model that predicts whether a patient has diabetes o
 ## Libraries used:
 
 Data preprocessing and visualization:
+
   -pandas, numpy, matplotlib and seaborn 
   model developement:
   -sklearn and xgboost.
 
 The ensemble is composed of 3 models:
+
   - Deep Neural Network (MLPClassifier from sklearn.neural_network)
   - Random Forests (RandomForestClassifier from sklearn.ensemble)
   - XGBoost (XGBClassifier from xgboost)
