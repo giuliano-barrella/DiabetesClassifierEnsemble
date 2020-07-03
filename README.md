@@ -1,5 +1,13 @@
 # DiabetesClassifierEnsemble
-A machine learning ensemble model that predicts whether a patient has diabetes or not. 
+
+A machine learning ensemble model that predicts whether a patient has diabetes or not. Google Collaboratory was used to easily organize the code and data visulization. 
+
+## Libraries used:
+
+Data preprocessing and visualization:
+  -pandas, numpy, matplotlib and seaborn 
+  model developement:
+  -sklearn and xgboost.
 
 The ensemble is composed of 3 models:
   - Deep Neural Network (MLPClassifier from sklearn.neural_network)
@@ -7,6 +15,8 @@ The ensemble is composed of 3 models:
   - XGBoost (XGBClassifier from xgboost)
   
 Each model's hyperparameters are individually fine-tuned by performing GridSearchCV (from sklearn.model_selection) and then the ensemble is built with VotingClassifier from sklearn.ensemble.
+
+
 
 There is a detailed description of the dataset and it's features in the Google Collaboratoy notebook.
 
