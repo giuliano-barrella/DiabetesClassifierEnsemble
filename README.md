@@ -6,9 +6,11 @@ A machine learning ensemble model that predicts whether a patient has diabetes o
 
 Data preprocessing and visualization:
 
-  -pandas, numpy, matplotlib and seaborn 
-  model developement:
-  -sklearn and xgboost.
+  - pandas, numpy, matplotlib and seaborn 
+  
+Model developement:
+
+  - sklearn and xgboost.
 
 The ensemble is composed of 3 models:
 
@@ -22,12 +24,12 @@ Each model's hyperparameters are individually fine-tuned by performing GridSearc
 
 There is a detailed description of the dataset and it's features in the Google Collaboratoy notebook.
 
-Acknowledgements:
+## Acknowledgements:
 
-  Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus.   In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
+  - Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus.   In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
-  Tensorflow 2.0 Practical: https://www.udemy.com/course/tensorflow-2-practical
+  - Tensorflow 2.0 Practical: https://www.udemy.com/course/tensorflow-2-practical
 
-  Kaggle: https://www.kaggle.com/kumargh/pimaindiansdiabetescsv
+  - Kaggle: https://www.kaggle.com/kumargh/pimaindiansdiabetescsv
   
   
