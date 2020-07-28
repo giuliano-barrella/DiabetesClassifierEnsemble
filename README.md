@@ -1,4 +1,4 @@
-# DiabetesClassifierEnsemble
+# Diabetes Free
 
 A machine learning ensemble model that predicts whether a patient has diabetes or not. Google Collaboratory was used to easily organize the code and data visulization. 
 
