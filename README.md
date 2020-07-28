@@ -22,7 +22,7 @@ Each model's hyperparameters are individually fine-tuned by performing GridSearc
 
 
 
-There is a detailed description of the dataset and it's features in the Google Collaboratoy notebook.
+There is a detailed description of the dataset and it's features in the Google Collaboratory notebook.
 
 ## Acknowledgements:
 
