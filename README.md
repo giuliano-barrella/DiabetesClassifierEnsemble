@@ -21,7 +21,6 @@ A machine learning ensemble model that predicts whether a patient has diabetes o
 Each model's hyperparameters are individually fine-tuned by performing GridSearchCV (from sklearn.model_selection) and then the ensemble is built with VotingClassifier from sklearn.ensemble.
 
 
-
 There is a detailed description of the dataset and it's features in the Google Collaboratory notebook.
 
 ## Acknowledgements:
